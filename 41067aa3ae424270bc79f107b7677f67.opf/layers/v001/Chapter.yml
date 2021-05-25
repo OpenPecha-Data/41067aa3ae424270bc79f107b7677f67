@@ -1,4 +1,20 @@
-id: ab2eb545f6a34d80a148d157b6ab97e5
+id: 049ec8a89cf5412fb20da76abb749ffa
 annotation_type: Chapter
-revision: '00001'
-annotations: {}
+revision: '00027'
+annotations:
+  c19ab9c4f1984bd1ad05afc9e80fda38:
+    span:
+      start: 0
+      end: 107
+  4b6e56ba30ba4ff2952aaf67d68814df:
+    span:
+      start: 155738
+      end: 155822
+  30f7792c1e1c411fb0674426c9c1516d:
+    span:
+      start: 179385
+      end: 179500
+  f369f94a77354a32bd2019de4efd5c20:
+    span:
+      start: 216669
+      end: 216748
